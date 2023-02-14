@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.856" height="18.167" viewBox="0 0 25.856 18.167">
+  <g id="megaphone_icon" data-name="megaphone icon" transform="matrix(0.985, -0.174, 0.174, 0.985, -48.234, -30.991)">
+    <g id="_44.-Megaphone" data-name="44.-Megaphone">
+      <rect id="Layer-1" width="1.419" height="13.059" rx="0.71" transform="translate(57.504 42.3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+      <path id="Layer-2" d="M50.408,46.232a9.754,9.754,0,0,0,7.1-3.571V55.006a9.861,9.861,0,0,0-7.1-3.531Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+      <path id="Layer-3" d="M.551,0H6.542A.554.554,0,0,1,7.1.554V5.8a.551.551,0,0,1-.551.551H.554A.554.554,0,0,1,0,5.8V.551A.551.551,0,0,1,.551,0Z" transform="translate(43.311 45.653)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+      <path id="Layer-4" d="M42.957,50.947H42.07a.885.885,0,0,1-.887-.883v-2.47a.885.885,0,0,1,.887-.882h.887" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+      <path id="Layer-6" d="M46.505,52.006H44.376v4.588a.707.707,0,0,0,.709.706h1.85a.531.531,0,0,0,.377-.882s-.807-.95-.807-1.267Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+    </g>
+    <g id="Group_46" data-name="Group 46">
+      <line id="Line_17" data-name="Line 17" y1="2.242" x2="3.528" transform="translate(61.479 43.815)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+      <line id="Line_18" data-name="Line 18" x2="4.704" transform="translate(61.479 48.829)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+      <line id="Line_19" data-name="Line 19" x1="3.528" y1="2.242" transform="translate(61.584 51.602)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+    </g>
+  </g>
+</svg>
